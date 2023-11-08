@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ala Arfaoui 👋</h1>
 <h3 align="center"><b>Full-Stack Web Developer</b></h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ala075&label=Profile%20views&color=00ff00&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ala075&label=Profile%20views&color=ff0000&style=flat)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ala075)
 
